@@ -1,14 +1,14 @@
 ---
 layout: post
 title: macOS Mojave 上手体验
-summary: Hands-On With macOS Mojavi
+summary: Hands-On With macOS Mojave
 featured-img: raindrop_glass
 categories: [macOS]
 ---
 
 
 
-[中文](zh-cn) | [English](#en)
+[中文](#zh-cn) | [English](#en)
 
 
 
@@ -28,7 +28,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![macOS 10.14 Mojavi login screen wallpaper](https://ws4.sinaimg.cn/large/006tKfTcgy1fs43pufgprj31kw0zkkjp.jpg "macOS 10.14 login screen wallpaper")
+![macOS 10.14 Mojave login screen wallpaper](https://ws4.sinaimg.cn/large/006tKfTcgy1fs43pufgprj31kw0zkkjp.jpg "macOS 10.14 login screen wallpaper")
 
 
 
@@ -277,7 +277,7 @@ Mojave (məʊˈhɑːvi), 莫哈维沙漠 (Mojave Desert) 是个位于美国西�
 
 
 
-# <a name="en">Hands-On With macOS Mojavi</a>
+# <a name="en">Hands-On With macOS Mojave</a>
 
 WWDC 2018 offcially takes place June 4th. Just like the reports from media, no new hardware but focus on the updates of software, WWDC brings iOS12, macOS 10.14 Mojave, watchOS 5 and tvOS 12 up. Of course, they are all in status of **Developer Preview**, only for developer adapting the new features and early adoption, not suggested update in production environment. If you plan to update, you can find the way to do it at the end of this post. OK, let's begin.
 
@@ -291,7 +291,7 @@ Let's talk about the update experience first. The whole process of updating is p
 
 
 
-![macOS 10.14 Mojavi login screen wallpaper](https://ws4.sinaimg.cn/large/006tKfTcgy1fs43pufgprj31kw0zkkjp.jpg "macOS 10.14 login screen wallpaper")
+![macOS 10.14 Mojave login screen wallpaper](https://ws4.sinaimg.cn/large/006tKfTcgy1fs43pufgprj31kw0zkkjp.jpg "macOS 10.14 login screen wallpaper")
 
 
 
