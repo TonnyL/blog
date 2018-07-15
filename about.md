@@ -8,14 +8,16 @@ permalink: /about/
 
 My name is Li Zhao Tai Lang (黎赵太郎) a.k.a TonnyL. 23 years old.
 
-## ↓ Background
+## Background
 
 I was born and raised up in Zhangjiajie and finished my college in Changsha. I majored in Software Engineering at Changsha University of Sciense & Technology. By now, I am an Android developer.
 
-## ↓ Experiences
+## Experiences
 Android Developer Intern · Happy Iterating Inc. · *Jul. 2017 - Sept. 2017, Beijing, China*
 
-## ↓ Contact
+Android Developer · Sunday Morning Inc. ·  *Jul. 2018 - Present. Guangzhou, China*
+
+## Contact
 + [lizhaotailang[at]gmail[dot]com](mailto:lizhaotailang@gmail.com)
 + [GitHub](https://github.com/TonnyL)
 + [Telegram](https://t.me/Typesafe)
