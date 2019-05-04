@@ -4,13 +4,19 @@ title: About
 permalink: /about/
 ---
 
-# About TonnyL
+# About Me
 
-My name is Li Zhao Tai Lang (黎赵太郎) a.k.a TonnyL. 23 years old.
+My name is Li Zhao Tai Lang (黎赵太郎) a.k.a TonnyL. 24 years old.
 
 ## Background
 
-I was born and raised up in Zhangjiajie and finished my college in Changsha. I majored in Software Engineering at Changsha University of Sciense & Technology. By now, I am an Android developer.
+I was born and raised up in [Zhangjiajie](https://en.wikipedia.org/wiki/Zhangjiajie) and finished my college in Changsha. I majored in Software Engineering at Changsha University of Science & Technology. By now, I am an Android developer.
+
+BTW, Zhangjiajie is a tourism city which is of beautiful natural sceneries, and I strongly suggest you going there and enjoying the gift of earth.
+
+Zhangjiajie National Forest Park ↓
+
+![](https://ws4.sinaimg.cn/large/006tNc79gy1g2pok31zpfj30k90btmz2.jpg)
 
 ## Experiences
 Android Developer Intern · Happy Iterating Inc. · *Jul. 2017 - Sept. 2017, Beijing, China*
