@@ -28,7 +28,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![macOS 10.14 Mojave login screen wallpaper](https://ws4.sinaimg.cn/large/006tKfTcgy1fs43pufgprj31kw0zkkjp.jpg "macOS 10.14 login screen wallpaper")
+![macOS 10.14 Mojave login screen wallpaper](https://pic1.zhimg.com/80/v2-3ddd442792491b40f533700a9b4ccc0a_hd.jpeg "macOS 10.14 login screen wallpaper")
 
 
 
@@ -36,7 +36,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![macOS 10.14 Mojave choose your look](https://ws2.sinaimg.cn/large/006tKfTcgy1fs43vyxbc3j31b00zw4bd.jpg "macOS 10.14 Mojave choose your look")
+![macOS 10.14 Mojave choose your look](https://pic4.zhimg.com/80/v2-d6a7c9ed8cdc18e7fd385537bc7f697c_hd.jpeg "macOS 10.14 Mojave choose your look")
 
 深色模式作为人民群众最喜闻乐见的功能之一, 终于在 Mojave 上, 千呼万唤始出来. 深色模式可以让用户在夜晚看得更加舒服, 而且, 看了这么多年的白色背景, 偶尔换个背景也算是换种心情了.
 
@@ -46,7 +46,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45smc4yij316415eth3.jpg) 
+![](https://pic4.zhimg.com/v2-796ab0a56c99329d78bb0d3037345ddb_b.jpeg) 
 
 
 
@@ -54,11 +54,11 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![Finder in Dark Mode](https://ws1.sinaimg.cn/large/006tKfTcgy1fs451523eaj31bs0t8n49.jpg "Finder in Dark Mode")
+![Finder in Dark Mode](https://pic4.zhimg.com/v2-bf0d1101024ad8d1de6bc824762426a3_b.jpeg "Finder in Dark Mode")
 
 
 
-![Spotify](https://ws1.sinaimg.cn/large/006tKfTcgy1fs44ym2wd7j31kw100x6p.jpg "Spotify")
+![Spotify](https://pic4.zhimg.com/80/v2-27111fb5e0aec3539e3db1996ef511d6_hd.jpeg "Spotify")
 
 
 
@@ -68,7 +68,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1fs44bywnkoj3164108qm0.jpg) 
+![](https://pic3.zhimg.com/80/v2-d6379f73e7fd6ecbaff6000b2ea5d7ba_hd.jpeg) 
 
 
 
@@ -78,15 +78,15 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1fs456vgxcgj31kw0zkatb.jpg)
+![](https://pic3.zhimg.com/80/v2-e2030e19f46b5e6d7af40660e5f9ffec_hd.jpeg)
 
 
 
-![Stocks](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45fvf0l9j31cu11wdu5.jpg "Stocks")
+![Stocks](https://pic2.zhimg.com/v2-9715828d4470974da22aaea3d756e4dd_b.jpeg "Stocks")
 
-![Voice Memos](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45gu1jgvj31cu11wdnv.jpg "Voice Memos")
+![Voice Memos](https://pic4.zhimg.com/80/v2-dbddad1cb8e93194281bd6eecf1dc292_hd.jpeg "Voice Memos")
 
-![Home](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45ibciuxj31cu11w7wj.jpg "Home")
+![Home](https://pic3.zhimg.com/80/v2-9ff20e5ba1da6883c018eff31b1d6b7a_hd.jpeg "Home")
 
 
 
@@ -100,13 +100,13 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![Mac App Store before update](https://ws3.sinaimg.cn/large/006tKfTcgy1fs45lwjg26j31kw10ckjm.jpg "Mac App Store before update")
+![Mac App Store before update](https://pic2.zhimg.com/80/v2-73bd14ed3a54c16bb6be0a9f186d3328_hd.jpeg "Mac App Store before update")
 
 更新后:
 
 
 
-![Mac App Store after update](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45moj0o5j31kw10gkjm.jpg "Mac App Store after update")
+![Mac App Store after update](https://pic1.zhimg.com/80/v2-45c574c6786bd6e12d24630a0646ca07_hd.jpeg "Mac App Store after update")
 
 
 
@@ -114,7 +114,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![Mac App Store before update](https://ws2.sinaimg.cn/large/006tKfTcgy1fs45nhugclj31kw10c4ev.jpg "Mac App Store before update")
+![Mac App Store before update](https://pic2.zhimg.com/80/v2-2cbddfa6fa930d8b446a444a416d84d7_hd.jpeg "Mac App Store before update")
 
 
 
@@ -122,7 +122,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![Mac App Store after update](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45pi9qq9j31kw10gn51.jpg "Mac App Store after update")
+![Mac App Store after update](https://pic1.zhimg.com/80/v2-98808f0c005cec1330513991dfa67bd6_hd.jpeg "Mac App Store after update")
 
 
 
@@ -132,11 +132,11 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![Stack](https://ws4.sinaimg.cn/large/006tKfTcgy1fs45y6jgncj30q00kq4jv.jpg "Stack")
+![Stack](https://pic4.zhimg.com/80/v2-7187f476794229c0d70d6c9a3e7415c9_hd.jpeg "Stack")
 
 
 
-![Stack](https://ws4.sinaimg.cn/large/006tKfTcgy1fs4642ezrmj30x80qo1kx.jpg "Stack")
+![Stack](https://pic2.zhimg.com/80/v2-0779a37e7930d72028c882bd9d44edbf_hd.jpeg "Stack")
 
 
 
@@ -150,7 +150,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 未使用「堆栈」:
 
-![before using Stack](https://ws2.sinaimg.cn/large/006tKfTcgy1fs46ab0io0j31kw0ybe85.jpg "before using Stack")
+![before using Stack](https://pic2.zhimg.com/80/v2-942ebd1e9237a7b88c7d40fa13d1272f_hd.jpeg "before using Stack")
 
 
 
@@ -158,7 +158,7 @@ WWDC 2018 4号正式召开, 正如之前媒体所爆料的那样, 本次 WWDC �
 
 
 
-![After using Stack](https://ws3.sinaimg.cn/large/006tKfTcgy1fs46blxloqj30gk0aqwlg.jpg "After using Stack")
+![After using Stack](https://pic4.zhimg.com/80/v2-50afc14b94d1e8f9de870dbf004b88a1_hd.jpeg "After using Stack")
 
 
 
@@ -170,7 +170,7 @@ macOS 10.14 Mojave 大幅增强了截图的功能, 并且支持了屏幕录制�
 
 
 
-![Screenshots on macOS Mojave](https://ws3.sinaimg.cn/large/006tKfTcgy1fs46llje70j31380auwgf.jpg "Screenshots on macOS Mojave")
+![Screenshots on macOS Mojave](https://pic2.zhimg.com/v2-2e0588a7a9210e1a834b17ad9f413be1_b.jpeg "Screenshots on macOS Mojave")
 
 
 
@@ -178,7 +178,7 @@ macOS 10.14 Mojave 大幅增强了截图的功能, 并且支持了屏幕录制�
 
 
 
-![Edit screenshots](https://ws2.sinaimg.cn/large/006tKfTcgy1fs46t6ay4lj31kw0zfkjn.jpg "Edit screenshots")
+![Edit screenshots](https://pic4.zhimg.com/80/v2-ebcf05e8a63068c471c5638bfc05e6e7_hd.jpeg "Edit screenshots")
 
 
 
@@ -188,7 +188,7 @@ macOS 10.14 Mojave 大幅增强了截图的功能, 并且支持了屏幕录制�
 
 
 
-![Markup a PDF file with Quick Look](https://ws1.sinaimg.cn/large/006tKfTcgy1fs46y2ybwdj31gq1864he.jpg "Markup a PDF file with Quick Look")
+![Markup a PDF file with Quick Look](https://pic3.zhimg.com/80/v2-0b7b9caeecb68464cf453dd44a229627_hd.jpeg "Markup a PDF file with Quick Look")
 
 ### Finder
 
@@ -196,7 +196,7 @@ macOS 10.14 Mojave 大幅增强了截图的功能, 并且支持了屏幕录制�
 
 
 
-![Finder](https://ws4.sinaimg.cn/large/006tKfTcgy1fs47p5hw92j31bs0t84b0.jpg "Finder")
+![Finder](https://pic2.zhimg.com/80/v2-02236fdc90319c6676b6a36d7ecc4e70_hd.jpeg "Finder")
 
 ### 最近使用的应用
 
@@ -204,7 +204,7 @@ macOS 现在也支持在 Dock 栏显示最近使用的应用, 最多支持显示
 
 
 
-![Show recents in Dock](https://ws4.sinaimg.cn/large/006tKfTcgy1fs48slh2zmj30is03mgna.jpg "Show recents in Dock")
+![Show recents in Dock](https://pic1.zhimg.com/80/v2-959e68541c0ef73e689e4ba3cd1ec985_hd.jpeg "Show recents in Dock")
 
 
 
@@ -218,7 +218,7 @@ macOS 现在也支持在 Dock 栏显示最近使用的应用, 最多支持显示
 
 + Safari: 支持在标签页显示 favicons. 
 
-  ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fs497q9gazj31kw02qt9p.jpg)
+  ![](https://pic3.zhimg.com/80/v2-3fba89d71d8638dac5a5fe9ef5d8fe0b_hd.jpeg)
 
 + 邮件: 在邮件中添加 Emoji 更加简单. 
 
@@ -238,11 +238,11 @@ macOS 现在也支持在 Dock 栏显示最近使用的应用, 最多支持显示
 
 + 深色模式仍然有一些 bug, 例如(忽略我的拼写错误):
 
-  ![bug of Dark Mode](https://ws1.sinaimg.cn/large/006tKfTcgy1fs49kf0mshj317c154dkq.jpg "bug of Dark Mode")
+  ![bug of Dark Mode](https://pic2.zhimg.com/80/v2-d920e70a37c38379ad5499ad846e4485_hd.jpeg "bug of Dark Mode")
 
 + 部分用户遇到了 Office 的兼容性问题. 幸运的是, 我并没有遇到:
 
-  ![office on Mojave](https://ws4.sinaimg.cn/large/006tKfTcgy1fs49m4iw1vj31kw163qfu.jpg "office on Mojave")
+  ![office on Mojave](https://pic3.zhimg.com/80/v2-149975798725f7c96eb52f6e6dc795fe_hd.jpeg "office on Mojave")
 
 + 部分应用(包含 Chrome)中的字体变细.
 
@@ -291,7 +291,7 @@ Let's talk about the update experience first. The whole process of updating is p
 
 
 
-![macOS 10.14 Mojave login screen wallpaper](https://ws4.sinaimg.cn/large/006tKfTcgy1fs43pufgprj31kw0zkkjp.jpg "macOS 10.14 login screen wallpaper")
+![macOS 10.14 Mojave login screen wallpaper](https://pic1.zhimg.com/80/v2-3ddd442792491b40f533700a9b4ccc0a_hd.jpeg "macOS 10.14 login screen wallpaper")
 
 
 
@@ -299,7 +299,7 @@ After logging in, the system shows us an important part of this update: Dark Mod
 
 
 
-![macOS 10.14 Mojave choose your look](https://ws2.sinaimg.cn/large/006tKfTcgy1fs43vyxbc3j31b00zw4bd.jpg "macOS 10.14 Mojave choose your look")
+![macOS 10.14 Mojave choose your look](https://pic4.zhimg.com/80/v2-d6a7c9ed8cdc18e7fd385537bc7f697c_hd.jpeg "macOS 10.14 Mojave choose your look")
 
 The Dark Mode, as one of the most popular features of the people, finally comes out on Mojave. Dark Mode let users feel more comfortable when watching the screen at night. And after so many years of white background, changing it into dark occasionally also changes the spirit of us. 
 
@@ -309,7 +309,7 @@ And surely, we can choose the light of dark mode when finish the update and get 
 
 
 
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45smc4yij316415eth3.jpg) 
+![](https://pic4.zhimg.com/v2-796ab0a56c99329d78bb0d3037345ddb_b.jpeg) 
 
 
 
@@ -317,11 +317,11 @@ So far, the Apple's applications including Finder, Safari, Xcode, Calendar, Phot
 
 
 
-![Finder in Dark Mode](https://ws1.sinaimg.cn/large/006tKfTcgy1fs451523eaj31bs0t8n49.jpg "Finder in Dark Mode")
+![Finder in Dark Mode](https://pic4.zhimg.com/v2-bf0d1101024ad8d1de6bc824762426a3_b.jpeg "Finder in Dark Mode")
 
 
 
-![Spotify](https://ws1.sinaimg.cn/large/006tKfTcgy1fs44ym2wd7j31kw100x6p.jpg "Spotify")
+![Spotify](https://pic4.zhimg.com/80/v2-27111fb5e0aec3539e3db1996ef511d6_hd.jpeg "Spotify")
 
 
 
@@ -331,7 +331,7 @@ After enterring Desktop, this wallpaper shows up. Default wallpaper **Mojave** c
 
 
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1fs44bywnkoj3164108qm0.jpg) 
+![](https://i.loli.net/2020/01/04/HpkmSoMsDVNQOXf.jpg) 
 
 
 
@@ -341,15 +341,15 @@ This update also brings new apps: Apple News, Stocks, Voice Memos and Home. But 
 
 
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1fs456vgxcgj31kw0zkatb.jpg)
+![](https://i.loli.net/2020/01/04/e7WBYJ6QVSlzXw8.jpg)
 
 
 
-![Stocks](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45fvf0l9j31cu11wdu5.jpg "Stocks")
+![Stocks](https://pic2.zhimg.com/v2-9715828d4470974da22aaea3d756e4dd_b.jpeg "Stocks")
 
-![Voice Memos](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45gu1jgvj31cu11wdnv.jpg "Voice Memos")
+![Voice Memos](https://pic4.zhimg.com/80/v2-dbddad1cb8e93194281bd6eecf1dc292_hd.jpeg "Voice Memos")
 
-![Home](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45ibciuxj31cu11w7wj.jpg "Home")
+![Home](https://i.loli.net/2020/01/04/HL6lK27y5UfWNuZ.jpg "Home")
 
 
 
@@ -363,13 +363,13 @@ Before:
 
 
 
-![Mac App Store before update](https://ws3.sinaimg.cn/large/006tKfTcgy1fs45lwjg26j31kw10ckjm.jpg "Mac App Store before update")
+![Mac App Store before update](https://pic2.zhimg.com/80/v2-73bd14ed3a54c16bb6be0a9f186d3328_hd.jpeg "Mac App Store before update")
 
 After:
 
 
 
-![Mac App Store after update](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45moj0o5j31kw10gkjm.jpg "Mac App Store after update")
+![Mac App Store after update](https://pic1.zhimg.com/80/v2-45c574c6786bd6e12d24630a0646ca07_hd.jpeg "Mac App Store after update")
 
 
 
@@ -377,7 +377,7 @@ Before:
 
 
 
-![Mac App Store before update](https://ws2.sinaimg.cn/large/006tKfTcgy1fs45nhugclj31kw10c4ev.jpg "Mac App Store before update")
+![Mac App Store before update](https://pic2.zhimg.com/80/v2-2cbddfa6fa930d8b446a444a416d84d7_hd.jpeg "Mac App Store before update")
 
 
 
@@ -385,7 +385,7 @@ After:
 
 
 
-![Mac App Store after update](https://ws1.sinaimg.cn/large/006tKfTcgy1fs45pi9qq9j31kw10gn51.jpg "Mac App Store after update")
+![Mac App Store after update](https://pic1.zhimg.com/80/v2-98808f0c005cec1330513991dfa67bd6_hd.jpeg "Mac App Store after update")
 
 
 
@@ -395,11 +395,11 @@ This Stack is not the stack in programming languages, it is a way to sort out th
 
 
 
-![Stack](https://ws4.sinaimg.cn/large/006tKfTcgy1fs45y6jgncj30q00kq4jv.jpg "Stack")
+![Stack](https://pic4.zhimg.com/80/v2-7187f476794229c0d70d6c9a3e7415c9_hd.jpeg "Stack")
 
 
 
-![Stack](https://ws4.sinaimg.cn/large/006tKfTcgy1fs4642ezrmj30x80qo1kx.jpg "Stack")
+![Stack](https://pic2.zhimg.com/80/v2-0779a37e7930d72028c882bd9d44edbf_hd.jpeg "Stack")
 
 
 
@@ -413,7 +413,7 @@ After turing on Stacks, all the single file will be identified and collected int
 
 Without Stacks:
 
-![before using Stack](https://ws2.sinaimg.cn/large/006tKfTcgy1fs46ab0io0j31kw0ybe85.jpg "before using Stack")
+![before using Stack](https://pic2.zhimg.com/80/v2-942ebd1e9237a7b88c7d40fa13d1272f_hd.jpeg "before using Stack")
 
 
 
@@ -421,7 +421,7 @@ With Stacks:
 
 
 
-![After using Stack](https://ws3.sinaimg.cn/large/006tKfTcgy1fs46blxloqj30gk0aqwlg.jpg "After using Stack")
+![After using Stack](https://pic4.zhimg.com/80/v2-50afc14b94d1e8f9de870dbf004b88a1_hd.jpeg "After using Stack")
 
 
 
@@ -433,7 +433,7 @@ macOS 10.14 Mojave drastically improves the function of Screenshots and supports
 
 
 
-![Screenshots on macOS Mojave](https://ws3.sinaimg.cn/large/006tKfTcgy1fs46llje70j31380auwgf.jpg "Screenshots on macOS Mojave")
+![Screenshots on macOS Mojave](https://pic2.zhimg.com/v2-2e0588a7a9210e1a834b17ad9f413be1_b.jpeg "Screenshots on macOS Mojave")
 
 
 
@@ -441,7 +441,7 @@ When finish the screenshot or recording the screen, a thumbnail will appear at l
 
 
 
-![Edit screenshots](https://ws2.sinaimg.cn/large/006tKfTcgy1fs46t6ay4lj31kw0zfkjn.jpg "Edit screenshots")
+![Edit screenshots](https://pic4.zhimg.com/80/v2-ebcf05e8a63068c471c5638bfc05e6e7_hd.jpeg "Edit screenshots")
 
 
 
@@ -451,7 +451,7 @@ In previos versions of macOS, select any file in Finder, press space key and we 
 
 
 
-![Markup a PDF file with Quick Look](https://ws1.sinaimg.cn/large/006tKfTcgy1fs46y2ybwdj31gq1864he.jpg "Markup a PDF file with Quick Look")
+![Markup a PDF file with Quick Look](https://i.loli.net/2020/01/04/4kxDQavtWM2jnOF.jpg "Markup a PDF file with Quick Look")
 
 ### Finder
 
@@ -459,7 +459,7 @@ This update adds a functionality named Gallery View to Finder, we could preview 
 
 
 
-![Finder](https://ws4.sinaimg.cn/large/006tKfTcgy1fs47p5hw92j31bs0t84b0.jpg "Finder")
+![Finder](https://pic2.zhimg.com/80/v2-02236fdc90319c6676b6a36d7ecc4e70_hd.jpeg "Finder")
 
 ### The Recents
 
@@ -467,7 +467,7 @@ macOS now supports show recent used apps in Dock, 3 recent apps at most. We coul
 
 
 
-![Show recents in Dock](https://ws4.sinaimg.cn/large/006tKfTcgy1fs48slh2zmj30is03mgna.jpg "Show recents in Dock")
+![Show recents in Dock](https://pic1.zhimg.com/80/v2-959e68541c0ef73e689e4ba3cd1ec985_hd.jpeg "Show recents in Dock")
 
 
 
@@ -481,7 +481,7 @@ macOS now supports show recent used apps in Dock, 3 recent apps at most. We coul
 
 - Safari: Supports display favicons in tabs.
 
-  ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fs497q9gazj31kw02qt9p.jpg)
+  ![](https://pic2.zhimg.com/80/v2-3fba89d71d8638dac5a5fe9ef5d8fe0b_hd.jpeg)
 
 - Mail: Easily add emoji in Mail.
 
@@ -501,11 +501,11 @@ macOS now supports show recent used apps in Dock, 3 recent apps at most. We coul
 
 - Some bugs of Dark Mode, for example(ignore my spelling mistakes):
 
-  ![bug of Dark Mode](https://ws1.sinaimg.cn/large/006tKfTcgy1fs49kf0mshj317c154dkq.jpg "bug of Dark Mode")
+  ![bug of Dark Mode](https://i.loli.net/2020/01/04/87PASFmT3DsLin9.jpg "bug of Dark Mode")
 
 - Some users encounter the compatibility problems of Office. Luckily, except me.
 
-  ![office on Mojave](https://ws4.sinaimg.cn/large/006tKfTcgy1fs49m4iw1vj31kw163qfu.jpg "office on Mojave")
+  ![office on Mojave](https://i.loli.net/2020/01/04/qTAgdOUicGw375j.jpg "office on Mojave")
 
 - The typeface of some applications (including Chrome) becomes thinner.
 

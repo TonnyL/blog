@@ -43,7 +43,7 @@ Android 提供了几种定义文本样式的方法：
 
 **多重样式** 引入了给一段文本添加多种样式的功能。例如，一个单词斜体而另一个粗体。多重样式可以通过使用 HTML 标签、 Span 或者是在 Canvas 上处理自定义的文本绘制。
 
-![左图：单一样式文本。设置了 textSize=”32sp” 和 textStyle=”bold” 的 TextView 。右图：多重样式文本。设置了 ForegroundColorSpan, StyleSpan(ITALIC), ScaleXSpan(1.5f), StrikethroughSpan 的文本。](https://ws2.sinaimg.cn/large/006tNbRwgy1fu7awud22nj318g118wfs.jpg)
+![左图：单一样式文本。设置了 textSize=”32sp” 和 textStyle=”bold” 的 TextView 。右图：多重样式文本。设置了 ForegroundColorSpan, StyleSpan(ITALIC), ScaleXSpan(1.5f), StrikethroughSpan 的文本。](https://pic4.zhimg.com/80/v2-bcd4b2a5411d42d7777e9104a561329b_hd.jpg)
 
 左图：单一样式文本。设置了 textSize=”32sp” 和 textStyle=”bold” 的 TextView 。右图：多重样式文本。设置了 ForegroundColorSpan, StyleSpan(ITALIC), ScaleXSpan(1.5f), StrikethroughSpan 的文本。
 
@@ -71,7 +71,7 @@ spannable.setSpan(
 myTextView.text = spannable
 ```
 
-![左图：使用 HTML 标签；中图：使用 BulletSpan，默认圆点大小；右图：在 Android P 上使用 BulletSpan 或者自定义实现。](https://ws3.sinaimg.cn/large/006tNbRwgy1fu7bp9k0bjj318g0pqwg1.jpg)
+![左图：使用 HTML 标签；中图：使用 BulletSpan，默认圆点大小；右图：在 Android P 上使用 BulletSpan 或者自定义实现。](https://pic4.zhimg.com/80/v2-feca9e2d29b24d127d0a9e35d8861b63_hd.jpg)
 
 左图：使用 HTML 标签；中图：使用 BulletSpan，默认圆点大小；右图：在 Android P 上使用 BulletSpan 或者自定义实现。
 
@@ -93,7 +93,7 @@ spannable.setSpan(
 myTextView.text = spannable
 ```
 
-![TextView 组合使用 XML 属性和 span 样式](https://ws3.sinaimg.cn/large/006tNbRwgy1fu7c1hlja1j30g30om74h.jpg)
+![TextView 组合使用 XML 属性和 span 样式](https://pic4.zhimg.com/80/v2-c6162e1db70e1dfd19909d51a38e11f3_hd.jpg)
 
 TextView 组合使用 XML 属性和 span 样式
 
@@ -147,7 +147,7 @@ spannable.setSpan(
 spannable.insert(12, “(& fon)”)
 ```
 
-![左图：带有 ForegroundColorSpan 的文本；右图：带有 ForegroundColorSpan 和 Spannable.SPAN_EXCLUSIVE_INCLUSIVE 的文本。](https://ws4.sinaimg.cn/large/006tNbRwgy1fu8jgf3u6xj318g118myj.jpg)
+![左图：带有 ForegroundColorSpan 的文本；右图：带有 ForegroundColorSpan 和 Spannable.SPAN_EXCLUSIVE_INCLUSIVE 的文本。](https://pic1.zhimg.com/80/v2-02646359eab45371aa95c2ad1b495910_hd.jpg)
 
 左图：带有 ForegroundColorSpan 的文本；右图：带有 ForegroundColorSpan 和 Spannable.SPAN_EXCLUSIVE_INCLUSIVE 的文本。
 
@@ -167,7 +167,7 @@ spannable.setSpan(
      Spannable.SPAN_EXCLUSIVE_EXCLUSIVE)
 ```
 
-![带有多种 span 的文本：ForegroundColorSpan(Color.RED) 和 StyleSpan(BOLD)](https://ws1.sinaimg.cn/large/006tNbRwgy1fu8jgbbbhwj30g30omglv.jpg)
+![带有多种 span 的文本：ForegroundColorSpan(Color.RED) 和 StyleSpan(BOLD)](https://pic4.zhimg.com/80/v2-df7892eb8e9a7469b59156eba808608f_hd.jpg)
 
 带有多种 span 的文本：ForegroundColorSpan(Color.RED) 和 StyleSpan(BOLD)
 
@@ -179,14 +179,14 @@ Android framework 在 [`android.text.style`](https://developer.android.com/refer
 + 基于 span 是否只改变外形或者 text 的大小或布局
 + 基于 是否会在字符或段落级别影响文本
 
-![span 类别：字符对比段落，外形对比大小](https://ws4.sinaimg.cn/large/006tNbRwgy1fu8jgfkllyj30wr0ac0ti.jpg)
+![span 类别：字符对比段落，外形对比大小](https://pic2.zhimg.com/80/v2-b989ed83dbda73eca52090876bfd5ba5_hd.jpg)
 
 span 类别：字符对比段落，外形对比大小
 
 ### 影响外形对比影响尺寸的 span
 第一种类型以修改外形的方式在字符级别起作用：文本或背景颜色、下划线、中横线等等，它会触发文本重新绘制但是并不会重新布局。这些 span 引入了 [`UpdateAppearance`](https://developer.android.com/reference/android/text/style/UpdateAppearance.html) 且继承自 [`CharacterStyle`](https://developer.android.com/reference/android/text/style/CharacterStyle.html). `CharacterStyle` 字类通过提供更新 `TextPaint` 的访问方法，定义了怎样绘制文本。
 
-![影响外形的 span](https://ws4.sinaimg.cn/large/006tNbRwgy1fu8jjas6rzj31700jlt9j.jpg)
+![影响外形的 span](https://pic3.zhimg.com/80/v2-838e15e8da0b2792a5b3d04b4b433f36_hd.jpg)
 
 影响外形的 span
 
@@ -194,7 +194,7 @@ span 类别：字符对比段落，外形对比大小
 
 举个例子，影响文本字体大小的 span 要求重新测量和布局，也要求重新绘制。这种 span 通常继承自 [`MetricAffectingSpan`](https://developer.android.com/reference/android/text/style/MetricAffectingSpan.html) 类。这个抽象类通过提供对 `TextPaint` 的访问，允许字类定义 span 如何影响文本测量，而 `MetricAffectingSpan` 继承自 `CharacterSpan`，子类在字符级别影响文本的外形。
 
-![影响尺寸的 span](https://ws1.sinaimg.cn/large/006tNbRwgy1fu8jseg55qj318g0kemyv.jpg)
+![影响尺寸的 span](https://pic3.zhimg.com/80/v2-5d777df089a613533323d024c91fcbf2_hd.jpg)
 
 影响尺寸的 span
 
@@ -237,17 +237,17 @@ spannableText.setSpan(
 
 因为 [`RelativeSizeSpan`](https://developer.android.com/reference/android/text/style/RelativeSizeSpan.html) 改变了文本的大小，文本的宽和高变化，文本的布局方式（举个例子，在 `TextView` 的大小没有变化的情况下，一个特定的单词现在可能会换行）。`TextView` 需要计算新的大小所以 `onMeasure` 和 `onLayout` 均被调用。
 
-![左图：ForegroundColorSpan——影响外观的 span；右图：RelativeSizeSpan——影响尺寸的 span](https://ws4.sinaimg.cn/large/006tNbRwgy1fueegt50m3j318g118wfw.jpg)
+![左图：ForegroundColorSpan——影响外观的 span；右图：RelativeSizeSpan——影响尺寸的 span](https://pic4.zhimg.com/80/v2-21af2d7696b1e2a13df599820983efef_hd.jpg)
 左图：ForegroundColorSpan——影响外观的 span；右图：RelativeSizeSpan——影响尺寸的 span
 
 ### 影响字符和影响段落的 span
 一个 span 对文本产生的影响既可以在字符级别，更新元素，如背景颜色、样式或大小，也可以在段落级别，更改整个文本块的对齐或者边距。根据所需的样式，span 既可以继承自[`CharacterStyle`](https://developer.android.com/reference/android/text/style/CharacterStyle.html)，也可以引入 [`ParagraphStyle`](https://developer.android.com/reference/android/text/style/ParagraphStyle.html)。 继承自 `ParagraphStyle` 的 span 必须从第一个字符附加到单个段落的最后一个字符，否则 span 不会被显示。在 Android 中，段落是基于换行符 (\n) 定义的。
 
-![在 Android 中，段落是基于换行符 (\n) 定义的。](https://ws4.sinaimg.cn/large/006tNbRwgy1fueeiq8nwhj30am04nq2w.jpg)
+![在 Android 中，段落是基于换行符 (\n) 定义的。](https://pic2.zhimg.com/80/v2-6c020bdf5243d72b050879fbc5aa0459_hd.jpg)
 
 在 Android 中，段落是基于换行符 (\n) 定义的。
 
-![影响段落的 span](https://ws3.sinaimg.cn/large/006tNbRwgy1fueejg4dqbj318g0bwab3.jpg)
+![影响段落的 span](https://pic4.zhimg.com/80/v2-175f0ff6d754d28eea596a821eadb22b_hd.jpg)
 
 影响段落的 span
 
@@ -271,7 +271,7 @@ spannable.setSpan(
     Spannable.SPAN_EXCLUSIVE_EXCLUSIVE)
 ```
 
-![左图：BackgroundColorSpan -- 影响字符的 span。右图：QuoteSpan -- 影响段落的 span](https://ws1.sinaimg.cn/large/006tNbRwgy1fueek909abj318g118ta0.jpg)
+![左图：BackgroundColorSpan -- 影响字符的 span。右图：QuoteSpan -- 影响段落的 span](https://pic2.zhimg.com/80/v2-a05b87a340d65d0131c9491e85a94731_hd.jpg)
 
 左图：BackgroundColorSpan -- 影响字符的 span。右图：QuoteSpan -- 影响段落的 span 
 

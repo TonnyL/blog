@@ -8,11 +8,9 @@ categories: [Android]
 
 > 本篇文章已授权微信公众号 guolin_blog （郭霖）独家发布
 
-<!--more-->
-
 目标：实现[纸飞机](https://github.com/TonnyL/PaperPlane)App - 采用MVP架构，集合了知乎日报、果壳精选和豆瓣一刻的综合性阅读客户端。效果图如下所示：
 
-![PaperPlane](http://upload-images.jianshu.io/upload_images/2440049-75f9c938a87c3c46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![PaperPlane](https://i.loli.net/2020/01/04/Mf5nINUGajdbSCY.png)
 
 本次教程分为7天，内容分别为：
 
@@ -156,7 +154,7 @@ http://news-at.zhihu.com/api/4/news/9165434
 
 纸飞机的最终设计效果如下：
 
-![PaperPlane](http://upload-images.jianshu.io/upload_images/2440049-75f9c938a87c3c46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![PaperPlane](https://i.loli.net/2020/01/04/Mf5nINUGajdbSCY.png)
 
 首页使用Drawer作为顶级导航，Tab为二级导航，列表项使用卡牌布局，使用FloatingActionButton作为日期选择按钮；详情页面使用可收缩的Toolbar，图片搭配文字的形式。其他高深的我也不懂了。(到后面你会发现，这里我犯了一个错误，卡牌布局用在这里是不合适的。参见：https://material.io/guidelines/components/cards.html#cards-usage)
 
@@ -165,7 +163,7 @@ http://news-at.zhihu.com/api/4/news/9165434
 
 新建Android Studio项目什么的就不说了，下面的是我的项目结构图：
 
-![项目结构](https://ww2.sinaimg.cn/large/006y8lVagy1fcfh31l5g1j30ni14qdk8.jpg)
+![项目结构](https://i.loli.net/2020/01/04/AlzmiVUpqIuPnJ6.jpg)
 
 ```
 ·
@@ -3091,7 +3089,7 @@ public class BookmarksPresenter implements BookmarksContract.Presenter {
 	├──  ──  ── ├── strings.xml
 	```
 	
-	![Multi-language](http://upload-images.jianshu.io/upload_images/2440049-ce4abc2ef966df77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+	![Multi-language](https://i.loli.net/2020/01/04/Hs5gjhYD3NmpoZv.png)
 
 	更多内容请点击[这里](https://developer.android.com/training/basics/supporting-devices/languages.html)。
 	
@@ -3099,7 +3097,7 @@ public class BookmarksPresenter implements BookmarksContract.Presenter {
 
 	关于Android碎片化的讨论已经非常多了，这里我就不再鞭尸了。只简单的举两个例子。在Android 4.1 Jelly Bean系统的华为手机上，系统的DatePicker的样式是这样的。
 	
-	![JellyBean](https://ww2.sinaimg.cn/large/006tKfTcgy1fcity9flprj30dc0nqmxv.jpg)
+	![JellyBean](https://i.loli.net/2020/01/04/ophdXB4l1zgsQ6i.jpg)
 	
 	很明显，这和我们Material Design的设计语言很违和，使用开源库`materialdatetimepicker`就可以在这样的低版本的设备上实现MD版本的Date Picker Dialog。实现UI的统一对提升用户体验还是很有帮助的。
 	
@@ -3153,19 +3151,19 @@ public class BookmarksPresenter implements BookmarksContract.Presenter {
 		如果你已经有了Google账号，就直接跳过这一小步吧。
 		
 		我们先去 https://accounts.google.com/SignUp 注册账号。按照自身的信息填写即可。
-		![创建您的 Google 帐号](https://ww2.sinaimg.cn/large/006tKfTcgy1fcixwzqtxcj31hv23eqi8.jpg)
+		![创建您的 Google 帐号](https://i.loli.net/2020/01/04/klH3xfpDMBS5zOe.jpg)
 		
 	2. 登录开发者后台
 	
 		登录 https://play.google.com/apps/publish/signup/ 。
-		![Google Play Console](https://ww3.sinaimg.cn/large/006tKfTcgy1fciycauuj7j31kw106drh.jpg)
+		![Google Play Console](https://i.loli.net/2020/01/04/CY8kNAenLTg2u5y.jpg)
 		
 		勾选同意并点击继续付款。需要注意的是，我们要先进到付款页面，然后再绑定Google Wallet。否则的话，就不能保证付款成功了。
 	3. 付款
 		
 		点击添加新的付款方式，一路按提示输入即可(由于我之前已经注册过了，这里盗用一下被人的图，原作者请不要打我😂)。
-		![Payment](https://ww3.sinaimg.cn/large/006tKfTcgy1fciyt3vjxuj310i0nhgnd.jpg)
-		![Payment](https://ww2.sinaimg.cn/large/006tKfTcgy1fciytuwh7wj310i0nhwg8.jpg)
+		![Payment](https://i.loli.net/2020/01/04/KOLcz6MPY47bZdW.jpg)
+		![Payment](https://i.loli.net/2020/01/04/52untFsiExjPXp1.jpg)
 		
 		如果绑定成功，Google可能会先从信用卡中扣除$1进行授权。
 	4. 审核
@@ -3187,18 +3185,13 @@ public class BookmarksPresenter implements BookmarksContract.Presenter {
 	![Generate Signed APK...](https://ww3.sinaimg.cn/large/006tKfTcgy1fcizu57nbqj30k40iygq3.jpg)
 	
 	选择生成APK的Module。
-	
-	![app](https://ww4.sinaimg.cn/large/006tKfTcgy1fcizxsepj2j30uo0mqwh6.jpg)
 
 	这时候需要我们选择key，用于对APK签名。
 
-	![key](https://ww1.sinaimg.cn/large/006tKfTcgy1fcizygdo80j30uo0mqgoz.jpg)
 	
 	Key的作用是为了保证每个应用程序开发商合法ID，防止部分开放商可能通过使用相同的Package Name来混淆替换已经安装的程序，我们需要对我们发布的APK文件进行唯一签名，保证我们每次发布的版本的一致性(如自动更新不会因为版本不一致而无法安装)。
 	
 	如果没有Key，我们就需要创建一个。选择`Create new...`创建。
-	
-	![Create new key](https://ww4.sinaimg.cn/large/006tKfTcgy1fcj095fzroj30ze0vqdl0.jpg)
 	
 	各种信息对应如下：
 	
@@ -3219,10 +3212,6 @@ public class BookmarksPresenter implements BookmarksContract.Presenter {
 	填写完信息后，点击OK生成。这里生成的key一定要妥善保管，以后我们对应用进行版本更新时，需要用到。
 	
 	新建成功后，我们选择刚刚生成的key，输入密码，点击`Next` --> `Finish`。
-	
-	![Next](https://ww4.sinaimg.cn/large/006tKfTcgy1fcj0nfxqiaj30uo0mqtcd.jpg)
-	
-	![Finish](https://ww3.sinaimg.cn/large/006tKfTcgy1fcj0o691u1j30uo0mqadm.jpg)
 
 1. 上传应用
 
@@ -3271,13 +3260,7 @@ public class BookmarksPresenter implements BookmarksContract.Presenter {
 	
 	我们先注册账号，地址为: https://github.com 。
 	
-	![GitHub](https://ww4.sinaimg.cn/large/006y8lVagy1fcj2es7qjbj31kw106x6p.jpg)
-	
-	账号注册成功后，进入 <del>GayHub</del> GitHub 个人信息页，大概是这个样子的。
-	
-	![MyGitHub](https://ww1.sinaimg.cn/large/006y8lVagy1fcj2kj9rahj31kw106gxt.jpg)
-	
-	第一步的工作就完成了。
+	账号注册成功后，第一步的工作就完成了。
 
 1. 安装Git
 	

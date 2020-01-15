@@ -51,7 +51,7 @@ Lambda 的语法格式如下:
 
 ```java
 fab.setOnClickListener(new View.OnClickListener() {
-    
+
 	@Override
     public void onClick(View v) {
         // blah, blah
@@ -117,4 +117,4 @@ fab.setOnClickListener(this::showSnackBar);
 ```
 
 ## 总结
-Lambda 表达式使用还是很方便的，能够减少编写和维护的代码数量。但是，这种极简主义的写法也并不是所有人都能接受的。
+Lambda 表达式使用还是很方便的，能够减少编写和维护的代码数量。

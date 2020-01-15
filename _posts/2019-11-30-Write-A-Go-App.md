@@ -365,7 +365,7 @@ total 20200
 -rw-r--r--  1 tonnyl  staff   1.5K Nov 17 18:05 main_test.go
 -rwxr-xr-x@ 1 tonnyl  staff   9.8M Nov 17 20:53 wukong
 ```
-9.8M, 你没有看错. 事实上, 就算是最简单的 hello world 变异后也有 2M 之巨. 我们用到了一些第三方库, 体积就来到了近 10M 之多. 
+9.8M, 你没有看错. 事实上, 就算是最简单的 hello world 编译后也有 2M 之巨. 我们用到了一些第三方库, 体积就来到了近 10M 之多. 
 相比较而言, C 语言版的 hello world 编译出来的可执行文件仅是 KB 级别. 
 
 为什么体积会这么大呢? 这里是官方的回答: https://golang.org/doc/faq#Why_is_my_trivial_program_such_a_large_binary . 简单来说就是: go 使用的是静态编译, 打包出来的可执行文件包含了 go 运行时, 而 C 是以动态链接库的形式编译的. 更多关于 go 和 C 语言编译的差异, 可以访问 https://www.cnxct.com/why-golang-elf-binary-file-is-large-than-c/ .

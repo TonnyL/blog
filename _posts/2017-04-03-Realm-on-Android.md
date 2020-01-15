@@ -103,10 +103,10 @@ realm.executeTransactionAsync(new Realm.Transaction() {
 ![Record of counts](https://i.loli.net/2018/03/27/5aba2be25358e.jpg)
 
 在200K条数据记录进行一次遍历查询，数据和前面的count相似: Realm能够达到每秒遍历200K数据记录31次，SQLite只能达到14次，而Core Data只有可怜的2次。
-![Record of queries](https://ww3.sinaimg.cn/large/006tNc79gy1fe9onmh6bqj30qe0g0wf5.jpg)
+![Record of queries](https://i.loli.net/2020/01/05/1Z36wXykMvicTAH.jpg)
 
 在一次事物中每秒插入数据量的对比，SQLite可以达到178K条记录，性能最好，Realm可以达到94K，而Core Data再次垫底，只有18K。
-![Record of inserts](https://ww3.sinaimg.cn/large/006tNc79gy1fe9onv5dvuj30qe0g0754.jpg)
+![Record of inserts](https://i.loli.net/2020/01/05/EhARiK1czdSFCLI.jpg)
 
 我自己也进行一次简单的测试，以JSON格式插入641条记录(好吧，我知道数据量比较小，仅仅只是一个参考，具体的数据可以参考[这里](https://github.com/TonnyL/Espresso/blob/master/mobile/src/main/java/io/github/marktony/espresso/data/source/local/CompaniesLocalDataSource.java))。
 
@@ -115,7 +115,6 @@ realm.executeTransactionAsync(new Realm.Transaction() {
 
 04-03 19:06:14.044 11090-11245/io.github.marktony.espresso D/TAG: 1491217574044
 ```
-![My Record](https://ww2.sinaimg.cn/large/006tNc79gy1fe9p947u3yj30vw02g0tc.jpg)
 207毫秒(Android 7.1.1, Realm 3.0)。
 
 ### 跨平台
@@ -128,17 +127,17 @@ Realm支持加密，格式化查询，流式API，JSON，数据变更通知等�
 
 ### 可视化
 Realm官方提供了一个名为「[Realm Browser](https://itunes.apple.com/us/app/realm-browser/id1007457278?mt=12)」轻量级的数据库查看工具(目前还只支持macOS平台)，利用Realm Browser我们可以进行简单的插入，删除等基本操作。
-![Realm Browser](https://ww3.sinaimg.cn/large/006tNc79gy1fe9q6fqk7nj31kw0uth2j.jpg)
+![Realm Browser](https://i.loli.net/2020/01/05/yqOoxbMdv1HTEn9.jpg)
 
 第三方开发者也提供了一些移动端的数据库查看工具，例如：
 
 [Realm Browser by Jonas Rottmann (Android)](https://github.com/jonasrottmann/realm-browser)
 
-![Realm Browser by Jonas Rottmann (Android)](https://ww3.sinaimg.cn/large/006tNc79gy1fe9rb6igm3j30u00zkq73.jpg)
+![Realm Browser by Jonas Rottmann (Android)](https://i.loli.net/2020/01/05/cbEsV4M2AeN9q76.jpg)
 
 [ealm Browser by Max Baumbach (iOS)](https://github.com/bearjaw/RBSRealmBrowser)
 
-![Realm Browser by Max Baumbach (iOS)](https://ww2.sinaimg.cn/large/006tNc79gy1fe9rfz16e0g30ai0iub2a.gif)
+![Realm Browser by Max Baumbach (iOS)](https://i.loli.net/2020/01/05/58AP3G2s7oBpYHl.gif)
 
 ### 开源
 [Realm](https://github.com/realm)已经将[Realm Core](https://github.com/realm/realm-core), [Realm Java](https://github.com/realm/realm-java)，[Realm Cocoa](https://github.com/realm/realm-cocoa), [Realm JS](https://github.com/realm/realm-js), [Realm Dotnet](https://github.com/realm/realm-dotnet)等等项目开源，这也就意味着，你可以向Realm团队提bug，提建议等等，和Realm团队一起见证Realm的成长。
@@ -155,9 +154,9 @@ Realm官方提供了一个名为「[Realm Browser](https://itunes.apple.com/us/a
 ### 体积
 引入Realm之后，在不做任何处理的情况下，APK体积增大了一个非常恐怖的数字 **5.6M**，你没有看错，是5.6兆 ~~(5.6M是什么概念，四舍五入就是10M，在四舍五入就是100M啊)~~。直接看图吧。
 
-![APK size before implementing Realm](https://ww4.sinaimg.cn/large/006tNc79gy1fe9t6n20c4j30ky0yqn2w.jpg)
+![APK size before implementing Realm](https://i.loli.net/2020/01/05/x1M7vVXn2dLJgqU.jpg)
 
-![APK size using default configuration](https://ww1.sinaimg.cn/large/006tNc79gy1fe9t7ajo6lj30ky0yqn2u.jpg)
+![APK size using default configuration](https://i.loli.net/2020/01/05/yw6sp7GnCk9Nq8L.jpg)
 
 我们可以通过配置`build.gradle`的split，根据不同的设备类型对APK进行拆分，从而达到缩减体积的目的。下面我配置了split之后，APK体积的变化。
 
@@ -174,7 +173,7 @@ splits {
 }
 ```
 
-![APK size using split](https://ww2.sinaimg.cn/large/006tNc79gy1fe9t7nzglwj30ky0yq44c.jpg)
+![APK size using split](https://i.loli.net/2020/01/05/XcTzdS3kr7tO2F1.jpg)
 
 ### 数据类型
 1. Realm要求当前Bean对象必须直接继承RealmObject，~~或者间接实现(目前已经不再推荐使用)~~，侵入性非常强。
@@ -235,7 +234,7 @@ splits {
 
 什么，你想要在Eclipse上使用Realm?
 
-![Using Realm in Eclipse](https://ww2.sinaimg.cn/large/006tNc79gy1feapqxnhi6j30dw09a3yu.jpg)
+![Using Realm in Eclipse](https://i.loli.net/2020/01/05/ykwgS4HJbWPqLYv.jpg)
 
 ### 安装
 Realm是作为一个Gradle插件安装的。
@@ -254,7 +253,7 @@ Realm是作为一个Gradle插件安装的。
 	```
 	
 	下面是project级别的`build.gradle`文件的位置：
-	![build.gradle file of project level](https://ww4.sinaimg.cn/large/006tNc79gy1feapw9tjepj30pi0lu79w.jpg)
+	![build.gradle file of project level](https://i.loli.net/2020/01/05/RyE18r5nJF6PDk2.jpg)
 
 + 第二步：在application级别的`build.gradle`文件的顶部应用`realm-android`插件：
 
@@ -263,7 +262,7 @@ Realm是作为一个Gradle插件安装的。
 	```
 	
 	下面是application级别的`build.gradle`文件的位置：
-	![build.gradle file of application level](https://ww4.sinaimg.cn/large/006tNc79gy1feaq13ys14j30pa0lsq8j.jpg)
+	![build.gradle file of application level](https://i.loli.net/2020/01/05/tXeVNq1bG3jyou5.jpg)
 	
 添加完成后，刷新gradle依赖即可。
 
